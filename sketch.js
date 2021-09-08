@@ -9,7 +9,7 @@ function preload(){
 sadDog=loadImage("images/Dog.png");
 happyDog=loadImage("images/Happy.png");
 garden=loadImage("images/Garden.png");
-washroom=loadImage("images/WashRoom.png");
+
 bedroom=loadImage("images/BedRoom.png");
 }
 
